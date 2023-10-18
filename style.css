@@ -9,6 +9,12 @@ ul{
 html{
 	margin-top:-8vh;
 }
+.container-xxl{
+	height: auto;
+}
+.container-xl{
+	height: auto;
+}
 .container-fluid{
 	background: #fff3f3;
 background: linear-gradient(221deg,#fff3f3 0%, #989898 80%);
